@@ -113,16 +113,15 @@ function ParticleSystem({
 // Experience data
 const experiences = [
   {
-    title: "Frontend Developer",
-    company: "Nexathread Private Limited",
-    period: "Feb 2025 - Sept 2025",
+    title: "Frountend Developer",
+    company: " FATIMA COMPLEX HOSPITAL ",
+    period: "Aug 2025 - Now",
     achievements: [
-      "Enhanced website performance using Next.js, TailwindCSS, Framer Motion, and Firebase",
-      "Integrated Cloudinary API for image generation and modification features",
-      "Built end-to-end mobile application with React Native in a 5-member team",
-      "Implemented Firebase authentication for secure user access management",
-      "Developed RESTful APIs with Node.js, Express.js, and DynamoDB",
-      "Successfully deployed Android app to Google Play Store"
+      "Create a full-stack doctor appointment using the MERN stack with role-based .",
+      " Save Image in Cloudinary ",
+      "Built end-to-end Frountend application with React in a 2member team",
+      "Enhanced website performance using React.js, TailwindCSS, cloudinary, and JavaScript",
+      "Developed RESTful APIs with Node.js, Express.js, and MongodbDB",
     ],
     color: "#64FFDA",
     icon: "💼"
@@ -132,24 +131,24 @@ const experiences = [
 // Education data
 const education = [
   {
-    degree: "Bachelor of Computer Science",
-    institution: "Jain University Bangalore",
-    period: "2024 - 2028",
+    degree: "Bachelor of Computer Applications (BCA)",
+    institution: "Integral University Lucknow",
+    period: "2023 - 2026",
     description: "Specialized in Software Engineering and Web Development",
     achievements: [
-      "Participated and won multiple coding hackathons",
-      "Published research on web optimization"
+      "Designed a hospital website (Freelancing) and built a student flat-finder app.",
+      
     ],
     color: "#BB86FC",
     icon: "🎓"
   },
   {
     degree: "Higher Secondary Education",
-    institution: "OAV Bandupali",
+    institution: "Dip Dev Inter College Mau",
     period: "2023",
-    description: "Higher Secondary Education with focus on Science and Mathematics (PCMB)",
+    description: "Higher Secondary Education with focus on Science and Mathematics (PCM)",
     achievements: [
-        "82% in Higher Secondary Board Exams"
+        "70% in Higher Secondary Board Exams"
     ],
     color: "#03DAC6",
     icon: "🎒"
@@ -158,12 +157,12 @@ const education = [
 
 // Contact data
 const contactInfo = {
-  email: "swagat@example.com",
-  phone: "+1 (555) 123-4567",
-  location: "San Francisco, CA",
-  linkedin: "linkedin.com/in/swagatchand",
-  github: "github.com/swagatchand98",
-  website: "swagatchand.dev"
+  email: "ay8950840@example.com",
+  phone: "+91 8303601130",
+  location: "Lucknow Utter Pradesh, India",
+  linkedin: "linkedin.com/in/adarsh-yadav-08817a27a",
+  github: "github.com/Adarsh4010 ",
+  // website: "swagatchand.dev"
 };
 
 // Interactive elements state
@@ -606,7 +605,7 @@ export default function ZScrollContent() {
           anchorY="middle"
           material-transparent={true}
         >
-          Swagat Chand
+          Adarsh Yadav
           <FloatingParticles/>
         </Text>
 
@@ -1236,12 +1235,12 @@ export default function ZScrollContent() {
               material-transparent={true}
               onClick={(e) => {
                 e.stopPropagation();
-                window.open('mailto:swagatsaswatchand@gmail.com', '_blank');
+                window.open('mailto:ay8950840@gmail.com', '_blank');
               }}
               onPointerOver={() => document.body.style.cursor = 'pointer'}
               onPointerOut={() => document.body.style.cursor = 'default'}
             >
-              swagatsaswatchand@gmail.com
+              ay8950840@gmail.com
             </Text>
           </group>
 
@@ -1266,12 +1265,12 @@ export default function ZScrollContent() {
               material-transparent={true}
               onClick={(e) => {
                 e.stopPropagation();
-                window.open('https://github.com/swagatchand98', '_blank');
+                window.open('https://github.com/Adarsh4010', '_blank');
               }}
               onPointerOver={() => document.body.style.cursor = 'pointer'}
               onPointerOut={() => document.body.style.cursor = 'default'}
             >
-              github.com/swagatchand98
+              github.com/Adarsh4010
             </Text>
           </group>
 
@@ -1296,12 +1295,12 @@ export default function ZScrollContent() {
               material-transparent={true}
               onClick={(e) => {
                 e.stopPropagation();
-                window.open('https://www.linkedin.com/in/swagat-chand-947a6b2ba/', '_blank');
+                window.open('https://linkedin.com/in/adarsh-yadav-08817a27a', '_blank');
               }}
               onPointerOver={() => document.body.style.cursor = 'pointer'}
               onPointerOut={() => document.body.style.cursor = 'default'}
             >
-              linkedin.com/in/swagat-chand
+              linkedin.com/in/adarsh-yadav-08817a27a
             </Text>
           </group>
 
@@ -1325,7 +1324,7 @@ export default function ZScrollContent() {
               anchorY="middle"
               material-transparent={true}
             >
-              Bangalore, India
+              Lucknow, India
             </Text>
           </group>
         </group>

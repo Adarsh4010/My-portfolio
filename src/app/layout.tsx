@@ -20,8 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Swagat Chand - Portfolio",
-  description: "Portfolio of Swagat Chand - Software Engineer, Web Developer, and Tech Enthusiast",
+  title: "Adarsh Yadav - Portfolio",
+  description: "Portfolio of Adarsh Yadav - Software Engineer, Web Developer, and Tech Enthusiast",
 };
 
 export default function RootLayout({

@@ -17,12 +17,12 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: "Thesco",
+    name: "PORTFOLIO WEBSITE",
     description:
-      "Modern, responsive landing page for import-export company featuring smooth Framer Motion animations, optimized SEO performance, integrated contact forms, and professional design showcasing company services and global trade capabilities.",
-    tech: ["Next.js", "Framer Motion", "Tailwind", "Nodemailer"],
+      "Built a modern, responsive 3D portfolio and landing page using Next.js, Three.js, React Three Fiber, Tailwind CSS, and Framer Motion, featuring smooth animations, project showcases, contact integration, and SEO optimization..",
+    tech: ["Next.js", "Framer Motion", "Tailwind", "Three.js"],
     color: "#ffffff",
-    github: "https://github.com/swagatchand98/Thesco-web",
+    github: "https://github.com/Adarsh4010",
     live: "https://thesco.vercel.app",
     details: [
       "Landing page project for import and export company made with Next.js for optimal performance and SEO.",
@@ -32,12 +32,12 @@ const projects: Project[] = [
     ],
   },
   {
-    name: "Web3-Dropbox",
+    name: " DIGITONIC INDIA ",
     description:
-      "Decentralized cloud storage marketplace where providers monetize unused space through cryptocurrency. Built with IPFS for distributed storage, Web3 wallet integration, and modern Three.js visualizations for enhanced user experience.",
+      "Built a responsive frontend platform showcasing IT services like software development, cloud, mobile apps, cybersecurity, and training. Designed modern UI/UX for projects, internships, and corporate training, optimized performance with caching and minification, and maintained clean code with Git/GitHub using scalable frontend practices..",
     tech: ["Next.js", "Ethers.js", "IPFS", "Hardhat", "Three.js", "RainbowKit"],
     color: "#ffffff",
-    github: "https://github.com/swagatchand98/web3-dropbox",
+    github: "https://github.com/Adarsh4010",
     live: "https://web3-dropbox.vercel.app",
     details: [
       "Built a decentralized cloud storage marketplace where providers rent out unused space and earn crypto, while users securely upload data.",
@@ -47,12 +47,12 @@ const projects: Project[] = [
     ],
   },
   {
-    name: "Selzo",
+    name: " FATIMA COMPLEX HOSPITAL",
     description:
-      "AI-powered SaaS platform enabling small businesses to create and manage automated WhatsApp bots. Features intelligent product uploads, automated customer responses, subscription management, and comprehensive analytics dashboard for business growth.",
-    tech: ["Next.js", "Node.js", "WhatsApp API", "AI", "Razorpay", "Stripe"],
+      "Built a MERN-based doctor appointment freelancing project with role-based access, secure JWT auth, doctor search, online booking & payments, real-time slots, and an admin panel for doctor verification. Integrated Cloudinary and developed scalable APIs with reusable UI components..",
+    tech: ["React.js", "Node.js", "JWT",  "Razorpay", "Express" ,"MongoDB", "Cloudinary"],
     color: "#ffffff",
-    github: "https://github.com/swagatchand98/selzo-web",
+    github: "https://github.com/Adarsh4010",
     live: "https://selzo.vercel.app",
     details: [
       "Built a SaaS platform using Next.js, Node.js, and WhatsApp Cloud API that enables SMBs to auto-create and manage personalized WhatsApp bots.",
@@ -62,17 +62,14 @@ const projects: Project[] = [
     ],
   },
   {
-    name: "CareConnect",
+    name: "FLAT4YOU",
     description:
-      "Full-stack service marketplace connecting users with service providers. Features real-time chat, secure payments, multi-role authentication, and comprehensive admin dashboard for seamless service management and booking experience.",
+      "Developed a full-stack rental marketplace for students to find and book nearby flats Only, featuring secure authentication, real-time booking, online payments, and dynamic search with filters. Also built an Owner dashboard to manage property details, images, pricing, and availability, ensuring smooth interaction between users and owners.",
     tech: [
-      "Next.js",
-      "TypeScript",
-      "Node.js",
-      "MongoDB",
-      "Firebase",
-      "AWS S3",
-      "Stripe",
+      "React.js",
+      "Tailwind CSS",
+      "Context API",
+      "RWD"
     ],
     color: "#ffffff",
     github: "https://careconnect-links.carrd.co",

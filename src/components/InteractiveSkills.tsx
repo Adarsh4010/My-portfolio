@@ -8,16 +8,16 @@ import * as THREE from "three";
 // Skills data with logo paths
 const skillsData = [
   { 
-    name: "TypeScript", 
-    logo: "/logo/Typescript.svg", 
+    name: "React Js", 
+    logo: "/logo/reactjs.png", 
     color: "#3178C6",
-    description: "Strongly typed JavaScript"
+    description: "React.js"
   },
   { 
     name: "Node.js", 
-    logo: "/logo/nodejs.svg", 
+    logo: "/logo/nodejs.png", 
     color: "#339933",
-    description: "JavaScript runtime environment"
+    description: "Node.js"
   },
   { 
     name: "CSS", 
@@ -26,8 +26,8 @@ const skillsData = [
     description: "Styling and animations"
   },
   { 
-    name: "Next.js", 
-    logo: "/logo/nextjs.png", 
+    name: "postman", 
+    logo: "/logo/postman.png", 
     color: "#000000",
     description: "React production framework"
   },
@@ -38,8 +38,8 @@ const skillsData = [
     description: "NoSQL database"
   },
   { 
-    name: "PostgreSQL", 
-    logo: "/logo/elephant.png", 
+    name: "Tailwind CSS", 
+    logo: "/logo/tailwind.png", 
     color: "#336791",
     description: "Relational database"
   },
@@ -50,13 +50,13 @@ const skillsData = [
     description: "Containerization platform"
   },
   { 
-    name: "AWS", 
+    name: "Cloudinary", 
     logo: "/logo/awslogo.png", 
     color: "#FF9900",
     description: "Cloud computing services"
   },
   { 
-    name: "Redis", 
+    name: "JavaScript", 
     logo: "/logo/redis.png", 
     color: "#DC382D",
     description: "In-memory data store"
